@@ -1,1 +1,1 @@
-# group_chat_application
+# Group Chat Application
